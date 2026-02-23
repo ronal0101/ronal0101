@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on upskilling myself and building projects
+- 🌱 I’m currently learning Data Science and Web Development 
+- 🤔 I’m looking for help with getting internships
+- 📫 How to reach me: https://www.linkedin.com/in/a-ronal-iglesias
